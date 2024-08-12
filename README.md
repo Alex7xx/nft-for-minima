@@ -1,0 +1,2 @@
+# nft-for-minima
+MINIMA 
